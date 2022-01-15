@@ -7,7 +7,7 @@ links:
   - label: Twitter
     url: "https://twitter.com/tdurst"
   - label: GitHub
-    url: "https://github.com/tonydurst/tonydurst.com"
+    url: "https://github.com/tonydurst"
   - label: Email
     url: "mailto:tonydurst@gmail.com"
 output:
