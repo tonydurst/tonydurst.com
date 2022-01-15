@@ -1,0 +1,17 @@
+---
+title: "Tony Durst"
+image: "/Users/tonydurst/tonydurst.com/tdtoon.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/tony-durst-314173/"
+  - label: Twitter
+    url: "https://twitter.com/tdurst"
+  - label: GitHub
+    url: "https://github.com/tonydurst/tonydurst.com"
+  - label: Email
+    url: "mailto:tonydurst@gmail.com"
+output:
+  postcards::jolla_blue
+---
+ 
+Just a small town boy in a big city world
